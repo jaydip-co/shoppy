@@ -1,0 +1,20 @@
+
+const String cAddress = "Address";
+const String cCity = "City";
+const String cPassword = "Confirm_Password";
+const String cCurrentLocation = "Current_Location";
+const String cEmail_id = "Email_Id";
+const String cFirstNAme = "First_Name";
+const String cLast_Name = "Last_Name";
+const String cMiddle_Name = "Middle_Name";
+const String cMobileNumber = "Mobile_Number";
+const String cMy_order = "My_Order";
+const String cPincode = "Pincode";
+const String cState = "State";
+const String cUser_id = "User_Id";
+const String cUser_name= "User_Name";
+const String cCart = "Wishlist";
+const String cCountry = "Country";
+const String cHouseNo = "House_no";
+const String cSocietyName = "Society_Name";
+const String cLandmark = "Landmark";
